@@ -4,7 +4,7 @@
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 ### What App Is This? 
-Hello there, today I continue my Flutter personal project journey. I create a trivia quiz app. So, this app concept basically is a simple story game app that we can play. The user will get different ending based on their choice. This app is made with Flutter
+Hello there, today I continue my Flutter personal project journey. I create a story game app called Destini. So, this app concept basically is a simple story game app that we can play. The user will get a different ending based on their choice. This app is made with Flutter
 
 <img alt="Destini" src="https://raw.githubusercontent.com/codestronaut/flutter-challenge-destini/main/assets/Preview.jpg" />
 
